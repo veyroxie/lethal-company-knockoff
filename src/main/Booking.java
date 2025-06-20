@@ -1,10 +1,9 @@
 package main;
 
-import main.actions.*;
-import main.vehicles.Vehicle;
-
 import java.util.ArrayList;
 import java.util.List;
+import main.actions.*;
+import main.vehicles.Vehicle;
 
 /**
  * Creates a booking instance for a vehicle
@@ -17,6 +16,7 @@ public class Booking implements ActionCapable{
     /**
      * user that vehicle is booked under
      */
+    @SuppressWarnings("unused")
     private User user;
     /**
      * user's pending booking list

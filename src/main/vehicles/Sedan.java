@@ -7,7 +7,7 @@ public class Sedan extends Vehicle{
     /**
      * range of car
      */
-    private int range;
+    private final int range;
     /**
      * what type of engine it uses
      */
