@@ -16,7 +16,6 @@ public class Booking implements ActionCapable{
     /**
      * user that vehicle is booked under
      */
-    @SuppressWarnings("unused")
     private User user;
     /**
      * user's pending booking list
