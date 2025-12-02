@@ -15,7 +15,7 @@ public class Display  {
 	/**
 	 * Display a displayable object.
 	 *
-	 * @param printable the object to display
+	 * @param printable the object to display.
 	 */
 	public void print(Printable printable) {
 		System.out.print(printable.getDisplayChar());
