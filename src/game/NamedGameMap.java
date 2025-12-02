@@ -41,7 +41,7 @@ public class NamedGameMap {
     }
 
     /**
-     * Returns the name of the game map.
+     * Returns the name of the game map
      *
      * @return the name of the game map
      */

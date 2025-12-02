@@ -27,7 +27,7 @@ public class Utility {
      *
      * @param lower Inclusive lower bound
      * @param upper Exclusive upper bound
-     * @return Generated number
+     * @return Generated number.
      */
     public static String generateMultipleNumberString(int lower, int upper, int count){
         String returnedString = "";
