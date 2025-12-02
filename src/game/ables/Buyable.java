@@ -1,4 +1,4 @@
-package game.ables;
+package src.game.ables;
 
 import edu.monash.fit2099.engine.actors.Actor;
 

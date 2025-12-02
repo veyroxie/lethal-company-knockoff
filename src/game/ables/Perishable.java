@@ -1,4 +1,4 @@
-package game.ables;
+package src.game.ables;
 
 /**
  * Represents items that can expire over time<br>

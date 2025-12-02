@@ -1,4 +1,4 @@
-package game;
+package src/game;
 
 import edu.monash.fit2099.engine.displays.Display;
 import edu.monash.fit2099.engine.positions.FancyGroundFactory;

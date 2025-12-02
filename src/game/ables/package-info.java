@@ -1,4 +1,4 @@
 /**
  * Package for all able interfaces
  */
-package game.ables;
+package src.game.ables;
